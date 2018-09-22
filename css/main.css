@@ -11,13 +11,13 @@ li {
 
  /* unvisited link */
 a:link {
-    color: #0000EE;
+    color: #0000FF;
 	text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #551A8B;
+    color: #800080;
 }
 
 /* mouse over link */
