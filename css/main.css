@@ -6,6 +6,7 @@ body {
 li {
     list-style-type: none;
 	display: inline;
+	font-size: 12px;
 }
 
 div#navigation {
