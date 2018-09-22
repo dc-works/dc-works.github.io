@@ -11,25 +11,29 @@ li {
 
  /* unvisited link */
 a:link {
-    color: #0000FF;
+    color: #0080b7;
 	text-decoration: none;
 }
 
 /* visited link */
-a:visited {
-    color: #800080;
+a:link:hover {
+    color: #ba0000;
 }
 
-/* mouse over link */
 a:hover {
-    color: red;
 	text-decoration: underline;
 }
 
-/* selected link */
-a:active {
-    color: yellow;
-} 
+/* mouse over link */
+a:visited {
+    color: #663399;
+}
+
+/* mouse over link */
+a:visited:hover {
+    color: #663399;
+}
+
 
 div#navigation {
 	text-align:center;
