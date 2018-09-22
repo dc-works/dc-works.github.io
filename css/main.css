@@ -6,3 +6,8 @@ body {
 ul {
     list-style-type: none;
 }
+
+div.navigation {
+	text-align:center;
+	
+}
