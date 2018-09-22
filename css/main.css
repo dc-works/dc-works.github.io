@@ -9,6 +9,28 @@ li {
 	font-size: 18px;
 }
 
+ /* unvisited link */
+a:link {
+    color: green;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+	text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+} 
+
 div#navigation {
 	text-align:center;
 }
