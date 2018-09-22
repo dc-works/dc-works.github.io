@@ -11,24 +11,24 @@ li {
 
  /* unvisited link */
 a:link {
-    color: #0080b7;
+    background: #0080b7;
 	text-decoration: none;
 }
 
 /* visited link */
 a:link:hover {
-    color: #ba0000;
+    background: #ba0000;
 	text-decoration: underline;
 }
 
 /* mouse over link */
 a:visited {
-    color: #663399;
+    background: #663399;
 }
 
 /* mouse over link */
 a:visited:hover {
-    color: #663399;
+    background: #663399;
 }
 
 
